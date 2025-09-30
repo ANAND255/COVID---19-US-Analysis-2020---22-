@@ -49,7 +49,7 @@ The dashboard highlights **infection trends, recovery, mortality rate, and age-g
 ---
 
 ## 👨‍💻 Author
-Created by **[Your Name]** ✨  
+Created by **[Anand Bijoy]** ✨  
 2nd Year B.Tech CSE | Data Science Enthusiast  
 
 ---
