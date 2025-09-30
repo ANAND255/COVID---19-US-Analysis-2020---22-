@@ -19,7 +19,7 @@ The dashboard highlights **infection trends, recovery, mortality rate, and age-g
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Screenshot 2025-09-30 183214.png)
+[Dashboard Preview](Screenshot 2025-09-30 183214.png)
 
 ---
 
